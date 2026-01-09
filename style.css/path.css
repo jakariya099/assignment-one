@@ -56,7 +56,15 @@
   border-radius: 5px;
   color: white;
 }
- 
+.button:hover {
+  color: #627382;
+}
+.button-nav:hover{
+  color: aqua;
+}
+.button-two:hover{
+  color: #30B868;
+}
 
 #banner{
   background-image: url("../assets/hero-bg.png");
